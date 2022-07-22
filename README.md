@@ -2,7 +2,7 @@
 
 This project was Live preview link [Flyway Travles React Project](https://flyway-travles-react.netlify.app).
 
-## Project Plan
+## Project Overview
 
 In the project directory, you can run:
 
@@ -11,3 +11,5 @@ In the project directory, you can run:
 `JavaScript`, `React`, `Bootstrap`, `NodeJS`, `Express`, `MongoDB`, `Mongoose`, `Sass`, `HTML`, `CSS`, `Git`, `GitHub`
 
 ### Code Overview
+
+### Project Structure
