@@ -8,6 +8,6 @@ In the project directory, you can run:
 
 ### Technologies Used
 
-### `JavaScript`, `React`, `Bootstrap`, `NodeJS`, `Express`, `MongoDB`, `Mongoose`, `Sass`, `HTML`, `CSS`, `Git`, `GitHub`
+`JavaScript`, `React`, `Bootstrap`, `NodeJS`, `Express`, `MongoDB`, `Mongoose`, `Sass`, `HTML`, `CSS`, `Git`, `GitHub`
 
 ### Code Overview
